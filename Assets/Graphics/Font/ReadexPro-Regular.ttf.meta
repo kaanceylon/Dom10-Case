@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 2f1a5fa1c0900124fb342b138995533f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Readex Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b8bc86549773bc4da9718e9c4a87749, type: 3}
+  - {fileID: 12800000, guid: 706e221683e36da4e85943ae82a96abd, type: 3}
+  - {fileID: 12800000, guid: c66714f78b3e3d2448345cc1fd21fcd4, type: 3}
+  - {fileID: 12800000, guid: 5a8e6ab00d0d4b247a880142217d44b1, type: 3}
+  - {fileID: 12800000, guid: 7019925ce0400114ea1014fa3b8b9e26, type: 3}
+  - {fileID: 12800000, guid: 6706fdfff128abb4f8f865177ce23881, type: 3}
+  - {fileID: 12800000, guid: 447e83e586b70fd4c9268a2e2fa89229, type: 3}
+  - {fileID: 12800000, guid: c05edaeb42935f24b89ec02389e90c50, type: 3}
+  - {fileID: 12800000, guid: 947084aa10e75834ba0a3e072472503f, type: 3}
+  - {fileID: 12800000, guid: 9414588c259b05b40b3594d8c17459ab, type: 3}
+  - {fileID: 12800000, guid: 9b6374220cf715746aa83a01d3b5e69c, type: 3}
+  - {fileID: 12800000, guid: 5dc8a7299de94cd4183f88ed3d8c1a30, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
